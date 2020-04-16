@@ -1,7 +1,7 @@
 /************************* WiFi Access Point *********************************/
 
 #include <ESP8266WiFi.h>        // Include the Wi-Fi library
-#include "credentials.h"  "     // Include Credentials (you need to create that file if you cloned it from git)
+#include "credentials.h"  "     // Include Credentials (you need to create that file in the same folder if you cloned it from git)
 
 /*
 Content of "credentials.h" that matters for this section
